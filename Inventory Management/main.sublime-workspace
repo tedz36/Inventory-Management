@@ -1,0 +1,557 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"showGrade",
+				"showGradeequal"
+			],
+			[
+				"tree",
+				"treeview1"
+			],
+			[
+				"addGrade",
+				"addGradeCheck"
+			],
+			[
+				"delete",
+				"deleteStudent"
+			],
+			[
+				"check",
+				"checkdelete"
+			],
+			[
+				"del",
+				"del_butt"
+			],
+			[
+				"Addstu",
+				"Addstudent"
+			],
+			[
+				"Addst",
+				"Addstudent"
+			],
+			[
+				"age",
+				"age_calc"
+			],
+			[
+				"print",
+				"print_age"
+			],
+			[
+				"year",
+				"year_enrolled"
+			],
+			[
+				"res",
+				"result4"
+			],
+			[
+				"Add",
+				"AddFormg11"
+			],
+			[
+				"result",
+				"result2"
+			],
+			[
+				"show",
+				"showgradeg11"
+			],
+			[
+				"qs",
+				"qswass"
+			],
+			[
+				"1st",
+				"1st_performance_total"
+			],
+			[
+				"1stqs",
+				"1st_qswass_total"
+			],
+			[
+				"chec",
+				"checkequal"
+			],
+			[
+				"fet",
+				"fetchall"
+			],
+			[
+				"feth",
+				"fetchone"
+			],
+			[
+				"students",
+				"students_info"
+			],
+			[
+				"tre",
+				"treeview2"
+			],
+			[
+				"ent",
+				"ent_showg"
+			],
+			[
+				"showgr",
+				"showgradeg11"
+			],
+			[
+				"time",
+				"time_string"
+			],
+			[
+				"grade",
+				"grade_year"
+			],
+			[
+				"Show",
+				"ShowGrade"
+			],
+			[
+				"resul",
+				"result2"
+			],
+			[
+				"AddFro",
+				"AddFormg12"
+			],
+			[
+				"g11",
+				"g11_english"
+			],
+			[
+				"info",
+				"info2"
+			],
+			[
+				"ex",
+				"execute"
+			],
+			[
+				"gr",
+				"grade_result"
+			],
+			[
+				"per",
+				"performance_total"
+			],
+			[
+				"exam",
+				"exam_total"
+			],
+			[
+				"proj",
+				"project_total"
+			],
+			[
+				"perfor",
+				"performances"
+			],
+			[
+				"exa",
+				"exam_score"
+			],
+			[
+				"pro",
+				"project_total"
+			],
+			[
+				"qw",
+				"qswass_score"
+			],
+			[
+				"qu",
+				"query1"
+			],
+			[
+				"upda",
+				"updateStudent"
+			],
+			[
+				"Upda",
+				"UpdateStudent"
+			],
+			[
+				"sch",
+				"school_logo"
+			],
+			[
+				"sear",
+				"search_year"
+			],
+			[
+				"lab",
+				"labelframe"
+			],
+			[
+				"add",
+				"add_logo"
+			],
+			[
+				"labe",
+				"labelframe2"
+			],
+			[
+				"Label",
+				"Label"
+			],
+			[
+				"sele",
+				"select_item"
+			],
+			[
+				"conf",
+				"configure"
+			],
+			[
+				"g",
+				"global"
+			],
+			[
+				"ge",
+				"grade_year"
+			],
+			[
+				"showinf",
+				"showinfos"
+			],
+			[
+				"tet",
+				"textvariable"
+			],
+			[
+				"student",
+				"students_info"
+			],
+			[
+				"Addsut",
+				"Addstudent"
+			],
+			[
+				"Grade",
+				"GradeForm"
+			],
+			[
+				"addg",
+				"addgrade"
+			],
+			[
+				"del_",
+				"del_std"
+			],
+			[
+				"de",
+				"del_butt"
+			],
+			[
+				"con",
+				"configure"
+			],
+			[
+				"link",
+				"linkedList"
+			],
+			[
+				"cur",
+				"currentNode"
+			],
+			[
+				"curre",
+				"currentPosition"
+			],
+			[
+				"insert",
+				"insertHead"
+			],
+			[
+				"prin",
+				"printlist"
+			],
+			[
+				"i",
+				"if\tIf Condition"
+			],
+			[
+				"sho",
+				"showwarning"
+			],
+			[
+				"try",
+				"try\tTry/Except"
+			],
+			[
+				"b",
+				"b_type"
+			],
+			[
+				"colum",
+				"columnspan"
+			],
+			[
+				"Up",
+				"Update_btn"
+			],
+			[
+				"St",
+				"Student_Database"
+			],
+			[
+				"l",
+				"l_name"
+			],
+			[
+				"lis",
+				"listbox1"
+			],
+			[
+				"Stu",
+				"StudentDatabase"
+			],
+			[
+				"id",
+				"id_num"
+			],
+			[
+				"f",
+				"f_name"
+			],
+			[
+				"Admin",
+				"AdminLogin"
+			],
+			[
+				"s",
+				"s"
+			],
+			[
+				"log",
+				"log_failed"
+			],
+			[
+				"wino",
+				"window2"
+			],
+			[
+				"entry",
+				"entry_1"
+			],
+			[
+				"login",
+				"login_success"
+			],
+			[
+				"text",
+				"textvariable"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"my",
+				"my_cursor"
+			],
+			[
+				"reg",
+				"reg_password"
+			],
+			[
+				"cu",
+				"cursor"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/bokerns/Desktop/Compro2/ywa.py",
+		"/home/bokerns/Desktop/Compro2/GUI hapit na.py",
+		"/home/bokerns/Desktop/Compro2/try.py",
+		"/home/bokerns/Downloads/1-trial.py",
+		"/home/bokerns/Downloads/kent-1.py",
+		"/home/bokerns/Downloads/try (2).py",
+		"/home/bokerns/Desktop/Compro2/final.py",
+		"/home/bokerns/Desktop/Compro2/kent.py",
+		"/home/bokerns/Documents/psss.py",
+		"/home/bokerns/Desktop/Compro2/trys.py",
+		"/home/bokerns/Desktop/Compro2/wow.py",
+		"/home/bokerns/Desktop/Compro2/wowow.py",
+		"/home/bokerns/Desktop/Compro2/insert.py",
+		"/home/bokerns/Desktop/Compro2/pwd.py",
+		"/home/bokerns/.config/sublime-text-3/Packages/User/python3.sublime-build",
+		"/home/bokerns/Documents/2017pico/ape.py",
+		"/home/bokerns/Desktop/Compro2/image.py",
+		"/home/bokerns/Downloads/try (1).py",
+		"/home/bokerns/tools/PitTool/PitTool.py",
+		"/home/bokerns/Documents/2017pico/try.py",
+		"/home/bokerns/Desktop/Compro2/login.py",
+		"/home/bokerns/Desktop/Compro2/nana.py",
+		"/home/bokerns/Desktop/Compro2/snake.py",
+		"/home/bokerns/Desktop/Compro2/tries.py",
+		"/home/bokerns/Documents/g/VEFORw==",
+		"/home/bokerns/Documents/g/dGFuZyBpbmEgbW8gaw==",
+		"/home/bokerns/Documents/g/dGFuZyBpbmEgbW8ga2E=",
+		"/home/bokerns/Desktop/Compro2/db.py",
+		"/home/bokerns/Desktop/Compro2/cam.py"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/python3.sublime-build",
+	"project": "main.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
